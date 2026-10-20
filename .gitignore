@@ -1,0 +1,8 @@
+# Input tables are not distributed with the code (see data/README.md)
+data/*
+!data/README.md
+results/
+figures/
+__pycache__/
+*.pyc
+.DS_Store
